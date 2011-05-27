@@ -101,3 +101,28 @@ ul li p {
     font-size: 14px;
     line-height: 18px;
 }
+
+section#projects ul {
+    list-style: none;
+}
+
+section#projects ul li {
+    margin: 15px 0;
+    border-bottom: 1px solid #333333;
+    padding-bottom: 15px;
+}
+
+section#projects ul li h3 {
+    font-size: 21px;
+    margin: 10px 0;
+    padding: 0;
+}
+section#projects ul li h4 {
+    margin: 0 10px 10px;
+    font-size: 14px;
+    line-height: 21px;
+}
+section#projects ul li h4 span {
+    color: #E57B7B;
+    /*font-weight: normal;*/
+}
